@@ -1,0 +1,9 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Akashaj09/weatherapp.git",
+  "author": "akash",
+  "license": "MIT",
+  "private": null
+}
